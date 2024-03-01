@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-abushahid",
+  "version": "1.0.0",
+  "description": "Personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass scss:css"
+  },
+  "author": "Abushahid",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.71.1"
+  }
+}
